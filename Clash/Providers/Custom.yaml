@@ -1,0 +1,14 @@
+payload:
+  # tracker网站
+  - DOMAIN-SUFFIX,tracker.gg
+  - DOMAIN-SUFFIX,tracker.network
+  - DOMAIN-KEYWORD,battlefieldtracker
+  # 瓦洛兰特比赛数据中心
+  - DOMAIN-SUFFIX,rib.gg
+  # 德转
+  - DOMAIN-SUFFIX,transfermarkt.com
+  - DOMAIN-SUFFIX,tmssl.akamaized.net
+  # 瓦洛兰特战术板
+  - DOMAIN-KEYWORD,valoplant
+  # pikpak
+  - DOMAIN-KEYWORD,pikpak
