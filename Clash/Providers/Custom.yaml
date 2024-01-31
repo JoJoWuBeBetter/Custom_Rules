@@ -14,3 +14,7 @@ payload:
   - DOMAIN-KEYWORD,valoplant
   # pikpak
   - DOMAIN-KEYWORD,pikpak
+  # 你懂的
+  - DOMAIN-SUFFIX,e-hentai.org
+  - DOMAIN-SUFFIX,exhentai.org
+  - DOMAIN-KEYWORD,hentai
