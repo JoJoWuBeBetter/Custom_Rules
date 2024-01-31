@@ -3,6 +3,8 @@ payload:
   - DOMAIN-SUFFIX,tracker.gg
   - DOMAIN-SUFFIX,tracker.network
   - DOMAIN-KEYWORD,battlefieldtracker
+  - DOMAIN-SUFFIX,trackercdn.com
+  - DOMAIN-SUFFIX,thetrackernetwork.com
   # 瓦洛兰特比赛数据中心
   - DOMAIN-SUFFIX,rib.gg
   # 德转
