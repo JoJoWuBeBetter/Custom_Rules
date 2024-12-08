@@ -28,3 +28,4 @@ payload:
   - DOMAIN-SUFFIX,nhentai.net
   # 棕色尘埃
   - DOMAIN-SUFFIX,browndust2.com
+  - DOMAIN-SUFFIX,browndust2-tw-wiki.netlify.app
