@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,rib.gg
   # 德转
   - DOMAIN-SUFFIX,transfermarkt.com
+  - DOMAIN-SUFFIX,transfermarkt.technology
   - DOMAIN-SUFFIX,tmssl.akamaized.net
   # 瓦洛兰特战术板
   - DOMAIN-KEYWORD,valoplant
